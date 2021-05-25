@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Luís Lucilandio - aka Luís</h1>
 
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
-
 Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
 
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
