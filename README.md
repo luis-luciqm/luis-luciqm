@@ -4,7 +4,7 @@ Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
 
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/_lluis7"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:l.luis@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="mailto:luislucilandio07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
   <li>🧑‍💻 I am a student, like javascript, html, css, nodeJS and python. Developer from <b>Rafael Fernandes/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
