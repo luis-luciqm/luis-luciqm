@@ -28,8 +28,6 @@ Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/_lluis7"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:luislucilandio07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
- 
-![Snake animation](https://github.com/luis-luciqm/luis-luciqm/blob/output/github-contribution-grid-snake.svg)
   
 > “Being rich is not measured by the amount of money you earn, but by the amount of people you help”
 ― Bill Gates
