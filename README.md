@@ -28,12 +28,16 @@ Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
   <img align="center" alt="C++" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div><br>
   
   
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/_lluis7"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:luislucilandio07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+  
+![Snake animation](https://github.com/massenandev/massenandev/blob/output/github-contribution-grid-snake.svg)
   
 > “Being rich is not measured by the amount of money you earn, but by the amount of people you help”
 ― Bill Gates
