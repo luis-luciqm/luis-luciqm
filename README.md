@@ -39,7 +39,7 @@ Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
   
 ![Snake animation](https://github.com/luis-luciqm/luis-luciqm/blob/output/github-contribution-grid-snake.svg)
   
-<img src="https://komarev.com/ghpvc/?username=luis-luciqm&color=green" alt="luis-luciqm" />   
+<img style="place-items: center;" src="https://komarev.com/ghpvc/?username=luis-luciqm&color=green" alt="luis-luciqm" />   
   
 > “Being rich is not measured by the amount of money you earn, but by the amount of people you help”
 ― Bill Gates
