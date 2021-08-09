@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Luís Lucilandio - aka Luís</h1>
 
-Graduating in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
+Student in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
 
 <ul>
   <li>🧑‍💻 I am a student, like javascript, html, css, nodeJS and python. Developer from <b>Rafael Fernandes/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
