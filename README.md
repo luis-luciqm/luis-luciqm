@@ -38,8 +38,6 @@ Researcher at Núcleo de Análise de Dados e Inteligencia Computacional - NADIC.
 <a href="https://instagram.com/_lluis7"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:luislucilandio07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
   
-![Snake animation](https://github.com/luis-luciqm/luis-luciqm/blob/output/github-contribution-grid-snake.svg)
-  
 <img src="https://komarev.com/ghpvc/?username=luis-luciqm&color=green" alt="luis-luciqm" />   
   
 > “Being rich is not measured by the amount of money you earn, but by the amount of people you help”
