@@ -4,6 +4,7 @@ Student in Systems Analysis and Development | IFRN Campus Pau dos Ferros.
 Researcher at Núcleo de Análise de Dados e Inteligencia Computacional - NADIC.
 
 <ul>
+  <li> Backend Developer at @Pechinchou</li>
   <li>🧑‍💻 I am a student, like javascript, html, css, nodeJS and python. Developer from <b>Rafael Fernandes/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 Few tech that I enjoy working in are Javascript, Python, PHP, and Git;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
