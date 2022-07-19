@@ -12,6 +12,17 @@ Researcher at Núcleo de Análise de Dados e Inteligencia Computacional - NADIC.
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b91Zoz7cBmmbTDhyrDQrlZGaoavwq9yjw3NLG2g2KMY8-jfD_vR0wbiGeexErYU1-Mg=w240-h480-rw"/>](https://pechinchou.com.br)
+
+**Backend Developer** \
+[**Pechinchou**](https://pechinchou.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`\
+Acesse o Site [Aqui](https://pechinchou.com.br/)
+<br/> 
+
  <div>
   <a href="https://github.com/luis-luciqm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-luciqm&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -32,19 +43,7 @@ Researcher at Núcleo de Análise de Dados e Inteligencia Computacional - NADIC.
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-</div><br>
-  
-  
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b91Zoz7cBmmbTDhyrDQrlZGaoavwq9yjw3NLG2g2KMY8-jfD_vR0wbiGeexErYU1-Mg=w240-h480-rw"/>](https://www.spacex.com/)
-
-**Backend Developer** \
-[**Pechinchou**](https://pechinchou.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`\
-Projetos em destaque: [Acesse o Site](https://pechinchou.com.br/)
-<br/>  
+</div><br> 
   
   
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
