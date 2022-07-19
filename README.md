@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" style="border-radius: 50%" src="https://play-lh.googleusercontent.com/b91Zoz7cBmmbTDhyrDQrlZGaoavwq9yjw3NLG2g2KMY8-jfD_vR0wbiGeexErYU1-Mg=w240-h480-rw"/>](https://pechinchou.com.br)
 
-**Backend Developer** \
+**Backend Developer:  2021 - Atualmente** \
 [**Pechinchou**](https://pechinchou.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`\
 Acesse o Site [Aqui](https://pechinchou.com.br/)
