@@ -21,7 +21,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Pechinchou**](https://pechinchou.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`\
 Acesse o Site [Aqui](https://pechinchou.com.br/)
-<br/> 
+<br/> <br/> <br/> 
 
  <div>
   <a href="https://github.com/luis-luciqm">
