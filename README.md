@@ -35,6 +35,18 @@ Researcher at Núcleo de Análise de Dados e Inteligencia Computacional - NADIC.
 </div><br>
   
   
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b91Zoz7cBmmbTDhyrDQrlZGaoavwq9yjw3NLG2g2KMY8-jfD_vR0wbiGeexErYU1-Mg=w240-h480-rw"/>](https://www.spacex.com/)
+
+**Backend Developer** \
+[**Pechinchou**](https://pechinchou.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`\
+Projetos em destaque: [Acesse o Site](https://pechinchou.com.br/)
+<br/>  
+  
+  
 <a href="https://www.linkedin.com/in/luís-lucilandio-79b9411b3/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/_lluis7"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:luislucilandio07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
